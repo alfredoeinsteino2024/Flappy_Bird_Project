@@ -23,8 +23,8 @@ A Flappy Bird-style game built in C using SDL2.
 
 ## Build & Run
 ```bash
-gcc main.c -o flappy_puppy -lSDL2
-./flappy_puppy
+gcc main.c -o Flappy_Bird -lSDL2
+./Flappy_Bird
 ```
 
 ## License
